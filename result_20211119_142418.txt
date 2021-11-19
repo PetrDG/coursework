@@ -1,3 +1,13 @@
+Check results
+=============
+
+E501:8:80:line too long (108 > 79 characters)
+E501:20:80:line too long (90 > 79 characters)
+E501:62:80:line too long (85 > 79 characters)
+E501:71:80:line too long (102 > 79 characters)
+
+Code
+=============
 import requests
 import datetime
 from pprint import pprint
